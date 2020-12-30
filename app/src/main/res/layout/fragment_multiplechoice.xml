@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MultipleChoiceFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewQuestionMultipleChoice"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:text="Multiple Choice"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+    <TextView
+        android:id="@+id/textViewAnswerMultipleChoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FF9800"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"/>
+    <RadioGroup
+        android:id="@+id/radioGrpMultipleChoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <RadioButton
+            android:id="@+id/radioBtnChoiceA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChoiceA"
+            android:textSize="24dp"/>
+        <RadioButton
+            android:id="@+id/radioBtnChoiceB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChoiceB"
+            android:textSize="24dp"
+            android:layout_marginTop="20dp"/>
+        <RadioButton
+            android:id="@+id/radioBtnChoiceC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChoiceC"
+            android:textSize="24dp"
+            android:layout_marginTop="20dp"/>
+        <RadioButton
+            android:id="@+id/radioBtnChoiceD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ChoiceD"
+            android:textSize="24dp"
+            android:layout_marginTop="20dp"/>
+    </RadioGroup>
+    <Button
+        android:id="@+id/submitBtnMultipleChoice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:textSize="24dp"
+        android:text="Submit"
+        android:textColor="#FFFFFF"
+        android:background="#FF9800"/>
+
+</LinearLayout>

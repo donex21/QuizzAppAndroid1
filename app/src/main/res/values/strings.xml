@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">MtermProject_1QuizApp</string>
+    <string name="q_one">Hurling uses a ball called a sliothar.</string>
+    <string name="q_two">There are 30 balls in the game of snooker.</string>
+    <string name="q_three">An Olympic slalom course must have a vertical drop of less than 200 feet.</string>
+    <string name="q_four">There has never been a woman chess master.</string>
+    <string name="q_five">Pétanque is played with balls.</string>
+    <string name="q_six">How many points did Liverpool record in the 2019/20 Premier League season before football was postponed?</string>
+    <string name="q_seven">How many times has Rafael Nadal won the French Open?</string>
+    <string name="q_eight">In which year did American Football star Tom Brady win his first Super Bowl with the New England Patriots?</string>
+    <string name="q_nine">How many MMA fights has UFC star Conor McGregor lost during his career?</string>
+    <string name="q_ten">How many balls are in total are there on the table at the start of a game of snooker?</string>
+    <string name="q_eleven">Name the only football team to sack Sir Alex Ferguson as a manager.</string>
+    <string name="q_twelve">Who is the last non-British, non-German Formula 1 driver to win the World Driver’s title?</string>
+    <string name="q_thirteen">Which WWE superstar did Tyson Fury wrestle in 2019?</string>
+    <string name="q_forteen">What colour medal did diver Tom Daley win at London 2012?</string>
+    <string name="q_fifteen">Where is the next Olympic 2020 Games set to take place?</string>
+    <string name="q_sixteen">What sports are no longer in the Olympics? Select two possible Answers.</string>
+    <string name="q_seventeen">Female badminton players. Select two possible Answers.</string>
+    <string name="q_eighteen">Sports that played in the Olympics. Select two possible Answers.</string>
+    <string name="q_nineteen">Sports that played in the SEA games. Select two possible Answers.</string>
+    <string name="q_twenty">Countries belong in SEA Games. Select two possible Answers.</string>
+    <string-array name="opt_ans_one"><item>True</item></string-array>
+    <string-array name="opt_ans_two"><item>False</item></string-array>
+    <string-array name="opt_ans_three"><item>False</item></string-array>
+    <string-array name="opt_ans_four"><item>False</item></string-array>
+    <string-array name="opt_ans_five"><item>False</item></string-array>
+    <string-array name="opt_ans_six"><item>82</item></string-array>
+    <string-array name="opt_ans_seven"><item>12</item></string-array>
+    <string-array name="opt_ans_eight"><item>2002</item></string-array>
+    <string-array name="opt_ans_nine"><item>4</item></string-array>
+    <string-array name="opt_ans_ten"><item>22</item>"></string-array>
+
+    <string-array name="opt_ans_eleven">
+        <item>St Mirren</item>
+        <item>St Marina</item>
+        <item>St Marine</item>
+        <item>St Martin</item>
+    </string-array>
+
+    <string-array name="opt_ans_twelve">
+        <item>Kimi Raikkonen</item>
+        <item>Lewis Hamilton</item>
+        <item>Valtteri Bottas</item>
+        <item>Max Verstappen</item>
+    </string-array>
+
+    <string-array name="opt_ans_thirteen">
+        <item>Braun Strowman</item>
+        <item>Asuka</item>
+        <item>John Cena</item>
+        <item>Kane</item>
+    </string-array>
+
+    <string-array name="opt_ans_forteen">
+        <item>Bronze</item>
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="opt_ans_fifteen">
+        <item>Tokyo</item>
+        <item>Beijing</item>
+        <item>Singapore</item>
+        <item>Bangkok</item>
+    </string-array>
+
+    <string-array name="opt_ans_sixteen">
+        <item>CRICKET</item>
+        <item>LACROSSE</item>
+        <item>SWIMMING</item>
+        <item>KARATE</item>
+    </string-array>
+
+    <string-array name="opt_ans_seventeen">
+        <item>Carolina Marin</item>
+        <item>Saina Nehwal</item>
+        <item>Selena Williams</item>
+        <item>Mariah Carey</item>
+    </string-array>
+    <string-array name="opt_ans_eighteen">
+        <item>Basketball</item>
+        <item>Karate</item>
+        <item>Cricket</item>
+        <item>Lacrosse</item>
+    </string-array>
+    <string-array name="opt_ans_nineteen">
+        <item>Swimming</item>
+        <item>FootBall</item>
+        <item>Syatong</item>
+        <item>BahayKubo</item>
+    </string-array>
+    <string-array name="opt_ans_twenty">
+        <item>Laos</item>
+        <item>Brunei</item>
+        <item>America</item>
+        <item>Brazil</item>
+    </string-array>
+
+</resources>
